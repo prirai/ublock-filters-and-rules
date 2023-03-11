@@ -1,0 +1,49 @@
+! 2022-11-22 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.show-consent.hide-consent.cookie-consent
+www.geeksforgeeks.org##.widget-area
+
+! 2022-12-14 https://askubuntu.com
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-12-20 https://www.partitionwizard.com
+||www.minitool.com/promotions/images/banner/2022-year-end/year-end-sale-en.png$image
+||www.minitool.com/promotions/images/banner/2022-year-end/year-end-sale-en.png$image
+www.partitionwizard.com##.page-bottom-fixed
+
+! 2022-12-20 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.login-modal-div > .modal-content
+
+! 2023-01-08 https://www.section.io
+||www.section.io/engineering-education/authors/valentine-gatwiri/avatar_hu7eb6b6d999f0a1a185c33738240f9375_61170_180x0_resize_q75_box.jpg$image
+
+! 2023-01-22 https://www.coursehero.com
+||www.coursehero.com/doc-asset/bg/961c8a3ac17a4cf9e45e556eb8fc826261dfafd7/splits/320932395/page-2.jpg$image
+
+! 2023-02-06 https://www.doubtnut.com
+www.doubtnut.com##.esLiqR.styled__MainDiv-gdhFGi
+www.doubtnut.com###VideoPage_Banner_Resposive_1-container > div
+www.doubtnut.com###VideoPage_Side_Banner_2-container > div
+www.doubtnut.com###VideoPage_Side_Banner_1-container > div
+www.doubtnut.com###VideoPage_Banner_Resposive_2-container > div
+
+! 2023-02-11 https://www.irctc.co.in
+||dishav3.ap-south-1.linodeobjects.com/IRCTC-banner-4.gif$image
+www.irctc.co.in###disha-image
+
+! 2023-02-11 https://twitter.com
+twitter.com##.r-qo02w8.r-l5o3uw.css-1dbjc4n
+
+! 2023-02-14 https://www.scaler.com
+www.scaler.com##.hide-in-mobile.exit-intent_modal_main_container__6uE8c
+www.scaler.com##.p-b-m.view_right_section__M6YCz
+
+! 2023-02-27 https://stackabuse.com
+stackabuse.com###ad-snigel-2
+stackabuse.com###ad-snigel-1
+stackabuse.com##.xl\:flex-row.flex-col.items-center.flex.lg\:px-8.lg\:py-3.md\:px-6.md\:py-2.border-gray-400.border.shadow-lg.rounded-lg.py-1.px-4.bg-gray-100
+
+! 2023-02-27 https://www.section.io
+www.section.io##.fill-dark.author-cta
+www.section.io##.sticky-wrapper
+www.section.io##.fill-dark.engEd-banner
+
